@@ -1,7 +1,13 @@
 # Jude's Introduction to Programming Work
 
-Some examples of my work include
-### [names of programs]:
+###Some examples of my work include
+-[Adventure Game]:
+html of program once I add it to the site
+which is used for [use]
+-[Calculator]
+html of program once I add it to the site
+which is used for [use]
+-[Ice Cream Shop]
 html of program once I add it to the site
 which is used for [use]
 
