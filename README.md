@@ -3,14 +3,17 @@
 ###Some examples of my work include
 
 -[Adventure Game]:
+
 html of program once I add it to the site
 which is used for [use]
 
--[Calculator]
+-[Calculator]:
+
 html of program once I add it to the site
 which is used for [use]
 
 -[Ice Cream Shop]
+
 html of program once I add it to the site
 which is used for [use]
 
