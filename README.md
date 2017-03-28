@@ -1,6 +1,6 @@
 # Jude's Introduction to Programming Work
 
-###Some examples of my work include
+### Some examples of my work include
 
 -[Adventure Game]:
 
