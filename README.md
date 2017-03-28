@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Jude's Introduction to Programming Work
 
-You can use the [editor on GitHub](https://github.com/Jude-Zich/Jude-Zich.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some examples of my work include
+## [names of programs] :
+html of program once I add it to the site
+which is used for [use]
 
 ### Markdown
 
