@@ -1,7 +1,7 @@
 ## Jude's Introduction to Programming Work
 
 Some examples of my work include
-## [names of programs] :
+# [names of programs] :
 html of program once I add it to the site
 which is used for [use]
 
